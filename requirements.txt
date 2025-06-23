@@ -1,0 +1,14 @@
+torch
+matplotlib
+numpy
+scikit-learn
+pandas
+torchvision
+tqdm
+scipy
+seaborn
+transformers
+datasets
+accelerate
+sentencepiece
+scikit-image
